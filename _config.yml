@@ -28,14 +28,14 @@ projects:
      - beg_stud_lit
      - nosetest-tracker
 
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-    linkedin: jesper-hallborg-aa1b74a8
+  linkedin: jesper-hallborg-aa1b74a8
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
@@ -44,7 +44,6 @@ projects:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-
 topics:
   - name: Clean Code
     web_url: https://blog.cleancoder.com/
